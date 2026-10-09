@@ -72,6 +72,11 @@ rewrite and is a separate, closed-source product.
 
 Windows 10 or 11, 64-bit. No other requirements — that is the point.
 
+**SmartScreen:** the binary is not code-signed yet, so Windows may show
+*"Windows protected your PC"* on first run — **More info → Run anyway**. A
+signing certificate is on the list; until then, the warning is about the absence
+of a certificate, not about anything found in the file.
+
 ## Source
 
 The application's source is **not public**. This repository is its home for
