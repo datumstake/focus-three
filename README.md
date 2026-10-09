@@ -60,8 +60,8 @@ MIT. See [LICENSE](LICENSE).
 
 ---
 
-Built by **[datumstake](https://github.com/datumstake)** — the product-polish
-counterpoint to the systems work there:
-[adapt-engine](https://github.com/datumstake/adapt-engine) ·
-[self-verifying-ratchet](https://github.com/datumstake/self-verifying-ratchet) ·
-[browser-pilot](https://github.com/datumstake/browser-pilot)
+Built by **[datumstake](https://github.com/datumstake)**. The rest of the set:
+
+[gapsmith](https://github.com/datumstake/gapsmith) — resolve a whole class of porting gaps from rules that carry their own proof ·
+[ratchet](https://github.com/datumstake/ratchet) — automation that cannot grade its own work ·
+[handle](https://github.com/datumstake/handle) — a logged-in Chrome, nine verbs
