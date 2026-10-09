@@ -1,10 +1,27 @@
 # FocusThree
 
+[![live demo](https://img.shields.io/badge/demo-try%20it%20now-2d7ff9)](https://datumstake.github.io/focus-three/)
+[![install](https://img.shields.io/badge/install-one%20HTML%20file-success)](index.html)
+[![dependencies](https://img.shields.io/badge/dependencies-0-success)](index.html)
+[![network](https://img.shields.io/badge/network%20calls-0-success)](index.html)
+[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 A deliberately tiny focus tool: **three tasks, one timer, nothing else.** One
 HTML file, no build step, no dependencies, no network, no tracking. Open it in a
 browser — or host it anywhere static — and it works offline forever.
 
 > Three tasks. One timer. Nothing else.
+
+### ▶ [Try it live](https://datumstake.github.io/focus-three/)
+
+The page you land on *is* the whole app. Save it to disk, pull the network cable,
+and it still works — there is nothing to reach for.
+
+| light | dark |
+|---|---|
+| <img src="docs/screenshot-light.png" alt="FocusThree in light mode: three task slots, the first checked and struck through, and a 25-minute focus timer counting down" width="100%"> | <img src="docs/screenshot-dark.png" alt="The same screen following the system dark theme" width="100%"> |
+
+*Same file, same markup — the theme follows your system, nothing is configured.*
 
 ## Why so small
 
@@ -26,7 +43,8 @@ for the "I just need to actually start" moment, not for project management.
 
 ## Use it
 
-Just open `index.html`. That's the whole install.
+Open [the live page](https://datumstake.github.io/focus-three/), or open
+`index.html` from a clone. That's the whole install.
 
 ```bash
 # or serve it statically from anywhere:
@@ -39,3 +57,11 @@ the presets, the palette — it's all right there with no toolchain in the way.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+Built by **[datumstake](https://github.com/datumstake)** — the product-polish
+counterpoint to the systems work there:
+[adapt-engine](https://github.com/datumstake/adapt-engine) ·
+[self-verifying-ratchet](https://github.com/datumstake/self-verifying-ratchet) ·
+[browser-pilot](https://github.com/datumstake/browser-pilot)
